@@ -1,0 +1,6 @@
+{
+  "name": "CampusFix",
+  "description": "Campus Complaint & Maintenance Management System for Sapthagiri NPS University, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
